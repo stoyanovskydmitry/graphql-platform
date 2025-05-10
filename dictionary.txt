@@ -39,6 +39,7 @@ depersist
 deprioritization
 deprioritized
 Dispatchable
+DOCKERHUB
 drawio
 enisdenjo
 entityframework
@@ -57,6 +58,7 @@ Giroux
 GraphiQL
 graphqlconfig
 graphqlrc
+graphqls
 graphyne
 greendonut
 Hasura

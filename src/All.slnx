@@ -130,6 +130,9 @@
     <Project Path="HotChocolate/Core/test/Utilities/HotChocolate.Tests.Utilities.csproj" />
     <Project Path="HotChocolate/Core/test/Validation.Tests/HotChocolate.Validation.Tests.csproj" />
   </Folder>
+  <Folder Name="/HotChocolate/Core/test/Types.Analyzer.Integration.Tests/">
+    <Project Path="HotChocolate/Core/test/Types.Analyzer.Integration.Tests/HotChocolate.Types.Analyzers.Tests.csproj" />
+  </Folder>
   <Folder Name="/HotChocolate/CostAnalysis/" />
   <Folder Name="/HotChocolate/CostAnalysis/src/">
     <Project Path="HotChocolate/CostAnalysis/src/CostAnalysis/HotChocolate.CostAnalysis.csproj" />
@@ -150,6 +153,7 @@
     <Project Path="HotChocolate/Data/test/Data.Filters.InMemory.Tests/HotChocolate.Data.Filters.InMemory.Tests.csproj" />
     <Project Path="HotChocolate/Data/test/Data.Filters.SqlServer.Tests/HotChocolate.Data.Filters.SqlServer.Tests.csproj" />
     <Project Path="HotChocolate/Data/test/Data.Filters.Tests/HotChocolate.Data.Filters.Tests.csproj" />
+    <Project Path="HotChocolate/Data/test/Data.NodaTime.Tests/HotChocolate.Data.NodaTime.Tests.csproj" />
     <Project Path="HotChocolate/Data/test/Data.PostgreSQL.Tests/HotChocolate.Data.PostgreSQL.Tests.csproj" />
     <Project Path="HotChocolate/Data/test/Data.Projections.SqlServer.Tests/HotChocolate.Data.Projections.SqlServer.Tests.csproj" />
     <Project Path="HotChocolate/Data/test/Data.Projections.Tests/HotChocolate.Data.Projections.Tests.csproj" />
